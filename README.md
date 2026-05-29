@@ -137,4 +137,3 @@ El mismo pipeline se aplica en entrenamiento y predicción:
 
 ---
 
-*Proyecto académico — Curso de Ciencia de Datos, Ingeniería Industrial.*
